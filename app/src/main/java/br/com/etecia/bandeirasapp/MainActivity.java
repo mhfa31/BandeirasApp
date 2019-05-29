@@ -9,7 +9,7 @@ public class MainActivity extends AppCompatActivity {
 
     State [] states={ new State("", "", "","")};
 
-
+//Colocar na activity_main.xml o LinearLayout na vertical e colocar quem é filho de quem(negocio das bolinhas)
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
